@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+div {
+  height: 100px;
+  width: 500px;
+  border: 1px solid black;
+  margin: auto !important ;
+}
+
+button {
+  height: 50px;
+  width: 150px;
+  justify-content: center;
+  align-items: center;
+  margin-left: 40%;
+  background-color: black;
+  color: white;
+}
